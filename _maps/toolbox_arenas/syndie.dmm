@@ -137,6 +137,12 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/centcom/tdome/arena)
+"zf" = (
+/obj/effect/turf_decal/trimline/dark_red/filled,
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/toy/plush/abductor,
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
 "zW" = (
 /obj/effect/turf_decal/trimline/dark_red/filled/warning{
 	dir = 8
@@ -208,6 +214,12 @@
 /area/centcom/tdome/arena)
 "HN" = (
 /obj/effect/turf_decal/trimline/dark_red/filled/arrow_cw,
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"JC" = (
+/obj/effect/turf_decal/trimline/dark_red/filled,
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/toy/plush/carpplushie,
 /turf/open/floor/mineral/plastitanium,
 /area/centcom/tdome/arena)
 "JE" = (
@@ -443,6 +455,18 @@ hA
 "}
 (9,1,1) = {"
 wZ
+cT
+JC
+VF
+hL
+hL
+VF
+zf
+cT
+hA
+"}
+(10,1,1) = {"
+wZ
 VD
 EP
 VF
@@ -453,7 +477,7 @@ Wh
 VD
 hA
 "}
-(10,1,1) = {"
+(11,1,1) = {"
 rW
 Kf
 cT
@@ -465,7 +489,7 @@ cT
 fs
 YL
 "}
-(11,1,1) = {"
+(12,1,1) = {"
 rW
 Pg
 BT
@@ -474,18 +498,6 @@ Yq
 Lu
 ez
 KT
-of
-YL
-"}
-(12,1,1) = {"
-rW
-Pg
-cT
-HN
-Yq
-Lu
-ih
-cT
 of
 YL
 "}
